@@ -1,5 +1,5 @@
 const config = {
-  projectName: "my-taro",
+  projectName: "todo",
   date: "2020-3-31",
   designWidth: 750,
   deviceRatio: {
